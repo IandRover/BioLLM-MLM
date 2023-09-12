@@ -14,7 +14,7 @@ You can run the main script using: `python run_mlm.py `
 
 Alternatively, for an interactive experience, open the notebook `v0_0_1_Aaron_Implementation.ipynb` using Google Colab or your preferred Jupyter environment.
 
-### Useful Links
+### Useful Links (Nucleotide Transformer)
 
 - [InstaDeep HuggingFace Page](https://huggingface.co/InstaDeepAI)
 - Model and tokenizer links can be found [here](https://huggingface.co/InstaDeepAI/nucleotide-transformer-500m-human-ref/blob/main/README.md):
